@@ -1,0 +1,142 @@
+[
+    {
+        "model": "movies.CountryModel",
+        "pk": 1,
+        "fields": {
+            "name": "Hong Kong"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 2,
+        "fields": {
+            "name": "China"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 3,
+        "fields": {
+            "name": "France"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 4,
+        "fields": {
+            "name": "Czechoslovakia"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 5,
+        "fields": {
+            "name": "Mauritania"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 6,
+        "fields": {
+            "name": "USA"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 7,
+        "fields": {
+            "name": "Israel"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 8,
+        "fields": {
+            "name": "Germany"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 9,
+        "fields": {
+            "name": "Finland"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 10,
+        "fields": {
+            "name": "Switzerland"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 11,
+        "fields": {
+            "name": "Belgium"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 12,
+        "fields": {
+            "name": "Australia"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 13,
+        "fields": {
+            "name": "Canada"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 14,
+        "fields": {
+            "name": "South Korea"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 15,
+        "fields": {
+            "name": "UK"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 16,
+        "fields": {
+            "name": "Ireland"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 17,
+        "fields": {
+            "name": "Italy"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 18,
+        "fields": {
+            "name": "United Arab Emirates"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 19,
+        "fields": {
+            "name": "Japan"
+        }
+    },
+    {
+        "model": "movies.CountryModel",
+        "pk": 20,
+        "fields": {
+            "name": "West Germany"
+        }
+    }
+]

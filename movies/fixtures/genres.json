@@ -1,0 +1,135 @@
+[
+    {
+      "model": "movies.MovieGenre",
+      "pk": 1,
+      "fields": {
+        "genre": "Drama"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 2,
+      "fields": {
+        "genre": "Romance"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 3,
+      "fields": {
+        "genre": "Animation"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 4,
+      "fields": {
+        "genre": "Sci-Fi"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 5,
+      "fields": {
+        "genre": "Thriller"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 6,
+      "fields": {
+        "genre": "Fantasy"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 7,
+      "fields": {
+        "genre": "Horror"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 8,
+      "fields": {
+        "genre": "Biography"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 9,
+      "fields": {
+        "genre": "History"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 10,
+      "fields": {
+        "genre": "War"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 11,
+      "fields": {
+        "genre": "Mystery"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 12,
+      "fields": {
+        "genre": "Adventure"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 13,
+      "fields": {
+        "genre": "Comedy"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 14,
+      "fields": {
+        "genre": "Family"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 15,
+      "fields": {
+        "genre": "Action"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 16,
+      "fields": {
+        "genre": "Sport"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 17,
+      "fields": {
+        "genre": "Music"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 18,
+      "fields": {
+        "genre": "Documentary"
+      }
+    },
+    {
+      "model": "movies.MovieGenre",
+      "pk": 19,
+      "fields": {
+        "genre": "Crime"
+      }
+    }
+]

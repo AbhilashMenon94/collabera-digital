@@ -1,0 +1,562 @@
+[
+    {
+        "model": "movies.WriterModel",
+        "pk": 1,
+        "fields": {
+            "name": "Kar-Wai Wong"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 2,
+        "fields": {
+            "name": "Stefan Wul (novel)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 3,
+        "fields": {
+            "name": "Roland Topor (adaptation)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 4,
+        "fields": {
+            "name": "René Laloux (adaptation)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 5,
+        "fields": {
+            "name": "Med Hondo"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 6,
+        "fields": {
+            "name": "Anna Biller"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 7,
+        "fields": {
+            "name": "Peter Filardi (story)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 8,
+        "fields": {
+            "name": "Peter Filardi (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 9,
+        "fields": {
+            "name": "Andrew Fleming (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 10,
+        "fields": {
+            "name": "Bill Gunn"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 11,
+        "fields": {
+            "name": "Marjane Satrapi (comic)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 12,
+        "fields": {
+            "name": "Vincent Paronnaud (scenario)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 13,
+        "fields": {
+            "name": "Ari Folman"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 14,
+        "fields": {
+            "name": "Michael J. Wilson (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 15,
+        "fields": {
+            "name": "Rob Letterman (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 16,
+        "fields": {
+            "name": "Scott Aukerman (additional dialogue)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 17,
+        "fields": {
+            "name": "Alec Berg (additional dialogue)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 18,
+        "fields": {
+            "name": "Sean Bishop (additional dialogue)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 19,
+        "fields": {
+            "name": "BJ Porter (additional dialogue)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 20,
+        "fields": {
+            "name": "Jeff Schaffer (additional dialogue)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 21,
+        "fields": {
+            "name": "Lona Williams (additional dialogue)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 22,
+        "fields": {
+            "name": "David P. Smith (additional dialogue)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 23,
+        "fields": {
+            "name": "David Soren (additional dialogue)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 24,
+        "fields": {
+            "name": "Chris McKenna (screenplay by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 25,
+        "fields": {
+            "name": "Erik Sommers (screenplay by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 26,
+        "fields": {
+            "name": "Scott Rosenberg (screenplay by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 27,
+        "fields": {
+            "name": "Jeff Pinkner (screenplay by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 28,
+        "fields": {
+            "name": "Chris McKenna (screen story by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 29,
+        "fields": {
+            "name": "Chris Van Allsburg (based on the book \"Jumanji\" by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 30,
+        "fields": {
+            "name": "Greg Taylor (based on the film \"Jumanji\" screen story by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 31,
+        "fields": {
+            "name": "Jim Strain (based on the film \"Jumanji\" screen story by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 32,
+        "fields": {
+            "name": "Chris Van Allsburg (based on the film \"Jumanji\" screen story by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 33,
+        "fields": {
+            "name": "Jonathan Hensleigh (based on the film \"Jumanji\" screenplay by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 34,
+        "fields": {
+            "name": "Greg Taylor (based on the film \"Jumanji\" screenplay by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 35,
+        "fields": {
+            "name": "Jim Strain (based on the film \"Jumanji\" screenplay by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 36,
+        "fields": {
+            "name": "Jennifer Kent"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 37,
+        "fields": {
+            "name": "Joon-ho Bong (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 38,
+        "fields": {
+            "name": "Won-jun Ha (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 39,
+        "fields": {
+            "name": "Chul-hyun Baek (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 40,
+        "fields": {
+            "name": "Dee Rees"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 41,
+        "fields": {
+            "name": "Michael Jai White (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 42,
+        "fields": {
+            "name": "Byron Minns (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 43,
+        "fields": {
+            "name": "Scott Sanders (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 44,
+        "fields": {
+            "name": "Michael Jai White (story)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 45,
+        "fields": {
+            "name": "Byron Minns (story)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 46,
+        "fields": {
+            "name": "Robert Siegel"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 47,
+        "fields": {
+            "name": "Justin Kerrigan"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 48,
+        "fields": {
+            "name": "N/A"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 49,
+        "fields": {
+            "name": "Nicholas St. John"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 50,
+        "fields": {
+            "name": "J.C. Chandor"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 51,
+        "fields": {
+            "name": "Jordan Peele"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 52,
+        "fields": {
+            "name": "Sadayuki Murai (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 53,
+        "fields": {
+            "name": "Yoshikazu Takeuchi (novel)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 54,
+        "fields": {
+            "name": "Rika Takahashi (translation)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 55,
+        "fields": {
+            "name": "Lia Sargent (adaptation)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 56,
+        "fields": {
+            "name": "Lewis John Carlino (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 57,
+        "fields": {
+            "name": "David Ely (based on the novel by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 58,
+        "fields": {
+            "name": "Tig Notaro"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 59,
+        "fields": {
+            "name": "R.J. Stewart (story)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 60,
+        "fields": {
+            "name": "R.J. Stewart (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 61,
+        "fields": {
+            "name": "James Vanderbilt (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 62,
+        "fields": {
+            "name": "Mort Briskin (earlier screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 63,
+        "fields": {
+            "name": "David Klass (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 64,
+        "fields": {
+            "name": "Channing Gibson (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 65,
+        "fields": {
+            "name": "David Levien (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 66,
+        "fields": {
+            "name": "Brian Koppelman (screenplay)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 67,
+        "fields": {
+            "name": "Boots Riley"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 68,
+        "fields": {
+            "name": "Wes Anderson (story by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 69,
+        "fields": {
+            "name": "Roman Coppola (story by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 70,
+        "fields": {
+            "name": "Jason Schwartzman (story by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 71,
+        "fields": {
+            "name": "Kunichi Nomura (story by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 72,
+        "fields": {
+            "name": "Wes Anderson (screenplay by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 73,
+        "fields": {
+            "name": "Paul King"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 74,
+        "fields": {
+            "name": "Simon Farnaby"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 75,
+        "fields": {
+            "name": "Michael Bond (\"Paddington Bear\" created by)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 76,
+        "fields": {
+            "name": "Jon Croker (additional material)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 77,
+        "fields": {
+            "name": "Simon Stephenson (additional material)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 78,
+        "fields": {
+            "name": "L.M. Kit Carson (adaptation)"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 79,
+        "fields": {
+            "name": "Sam Shepard"
+        }
+    },
+    {
+        "model": "movies.WriterModel",
+        "pk": 80,
+        "fields": {
+            "name": "Walter Donohue (story editor: Channel 4)"
+        }
+    }
+]

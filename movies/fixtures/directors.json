@@ -1,0 +1,240 @@
+[
+    {
+        "model": "movies.DirectorModel",
+        "pk": 1,
+        "fields": {
+            "name": "Kar-Wai Wong"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 2,
+        "fields": {
+            "name": "René Laloux"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 3,
+        "fields": {
+            "name": "Med Hondo"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 4,
+        "fields": {
+            "name": "Anna Biller"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 5,
+        "fields": {
+            "name": "Andrew Fleming"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 6,
+        "fields": {
+            "name": "Bill Gunn"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 7,
+        "fields": {
+            "name": "Vincent Paronnaud"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 8,
+        "fields": {
+            "name": "Marjane Satrapi"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 9,
+        "fields": {
+            "name": "Ari Folman"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 10,
+        "fields": {
+            "name": "Bibo Bergeron"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 11,
+        "fields": {
+            "name": "Vicky Jenson"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 12,
+        "fields": {
+            "name": "Rob Letterman"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 13,
+        "fields": {
+            "name": "Jake Kasdan"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 14,
+        "fields": {
+            "name": "Jennifer Kent"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 15,
+        "fields": {
+            "name": "Joon-ho Bong"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 16,
+        "fields": {
+            "name": "Dee Rees"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 17,
+        "fields": {
+            "name": "Scott Sanders"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 18,
+        "fields": {
+            "name": "Darren Aronofsky"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 19,
+        "fields": {
+            "name": "Justin Kerrigan"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 20,
+        "fields": {
+            "name": "Jennie Livingston"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 21,
+        "fields": {
+            "name": "Abel Ferrara"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 22,
+        "fields": {
+            "name": "J.C. Chandor"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 23,
+        "fields": {
+            "name": "Jordan Peele"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 24,
+        "fields": {
+            "name": "Satoshi Kon"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 25,
+        "fields": {
+            "name": "John Frankenheimer"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 26,
+        "fields": {
+            "name": "Tig Notaro"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 27,
+        "fields": {
+            "name": "Peter Berg"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 28,
+        "fields": {
+            "name": "Kevin Bray"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 29,
+        "fields": {
+            "name": "Boots Riley"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 30,
+        "fields": {
+            "name": "Julie Cohen"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 31,
+        "fields": {
+            "name": "Betsy West"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 32,
+        "fields": {
+            "name": "Wes Anderson"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 33,
+        "fields": {
+            "name": "Paul King"
+        }
+    },
+    {
+        "model": "movies.DirectorModel",
+        "pk": 34,
+        "fields": {
+            "name": "Wim Wenders"
+        }
+    }
+]
