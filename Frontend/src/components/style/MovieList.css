@@ -1,0 +1,31 @@
+.movie-list-container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.search-input,
+.filter-select {
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 100%;
+}
+
+.movie-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.movie-table th,
+.movie-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  color: #ffffff;
+}
+
+.movie-table th {
+  background-color: #f2f2f2;
+}
+
+.movie-table tr:hover {
+  background-color: #ddd;
+}
